@@ -1,10 +1,10 @@
 # TransferLearning_Muilti-Channel_Imagery
 <img src="https://www.gov.br/cbpf/pt-br/assuntos/noticias/inscricao-para-duas-bolsas-pibic-ate-terca-09/cbpf-1.png"  width="500" />
 
-<font size="5"> Implementing Transfer Learning to N>3 Channels Imagery and Removing Pre-processing Layers from Tensorflow.applications
+<font size="50"> Implementing Transfer Learning to N>3 Channels Imagery and Removing Pre-processing Layers from Tensorflow.applications
 
     
-<font size="2">
+<font size="1">
 This is a tutorial Notebook of how to solve two problems:
     
     1.) How to implemente transfer Learning, using the weights of IMAGENET to images with N>3 channels.
